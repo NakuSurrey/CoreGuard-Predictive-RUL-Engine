@@ -23,6 +23,7 @@ DATA_RAW_DIR: Path = PROJECT_ROOT / "data" / "raw"
 DATA_PROCESSED_DIR: Path = PROJECT_ROOT / "data" / "processed"
 MODELS_DIR: Path = PROJECT_ROOT / "models"
 NOTEBOOKS_DIR: Path = PROJECT_ROOT / "notebooks"
+SHAP_OUTPUT_DIR: Path = PROJECT_ROOT / "data" / "shap"
 
 # ---------------------------------------------------------------------------
 # NASA C-MAPSS DATASET CONFIGURATION
